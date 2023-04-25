@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning full stack developement
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me ...
 
 <!---
 gadibhanu/gadibhanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
